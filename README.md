@@ -49,4 +49,5 @@ The workflow derives new columns such as:
    - The transformed data is written into a partitioned format based on countries in the `/FileStore/output/partCust` directory.
 
 
-
+###Sreenshots
+- Screenshots of the Databricks UI input path, output path, and code are available
